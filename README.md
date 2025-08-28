@@ -3,7 +3,7 @@
 * **Status:** `Recebendo applications`
 * **Release:** `1.0.0 - O primeiro programa de trainee em IA do Brasil!`
 * **Prazo para submeter seu `prompt` (inscrição):** `22/09/2025`
-* **Link para apply (via WhatsApp):** `[(https://wa.link/27af08)]`
+* **Link para apply (via WhatsApp):** `[https://wa.link/27af08]`
 
 ---
 
